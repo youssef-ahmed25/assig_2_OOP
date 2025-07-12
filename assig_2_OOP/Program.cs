@@ -38,6 +38,7 @@ namespace Day02G03
             //Point p= new Point(x1,y1, x2, y2);
 
             //p.distance();
+
             #endregion
             #region Q3
             //Console.Write("enter name 1: ");
