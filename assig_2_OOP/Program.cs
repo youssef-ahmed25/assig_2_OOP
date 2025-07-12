@@ -22,6 +22,7 @@ namespace Day02G03
             //        Console.WriteLine($"Name:{i.name},Age: {i.age}");
             //    }
             
+
             // 
             #endregion
             #region Q2
